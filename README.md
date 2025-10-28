@@ -1,7 +1,7 @@
 # 新概念英语-全四册
 ## New Concept English
-### 在线课文点读
-在线课文朗读，单句点读，随时随地在线学习。  
+### 课文点读系统
+在线课文朗读，单句点读，中英对照，随时随地在线自学英语。  
 
 Demo：[http://nce.ichochy.com](http://nce.ichochy.com)  
 
@@ -139,13 +139,13 @@ GitHub：[https://github.com/ichochy/nce](https://github.com/ichochy/nce)
 ---
 
 ## 最后
-1. 坚持学习，每一天都有进步。｜Keep learning — progress comes with persistence.
-2. 每个新单词都是向世界迈进一步。｜Every new word brings you closer to the world.
-3. 英语是通向更广阔舞台的钥匙。｜English is the key to a broader stage.
-4. 不怕说错，只怕不说。｜Don’t fear mistakes — fear not speaking.
-5. 语言的力量来自不断的练习。｜The power of language grows through practice.
-6. 让英语成为你思考与表达的新工具。｜Let English become your new tool for thinking and expression.
-7. 每一次开口，都是自信的积累。｜Every time you speak, you build confidence.
-8. 你的努力，会让英语为你发声。｜Your effort will make English speak for you.
-9. 学习英语不是任务，而是探索世界的旅程。｜Learning English is not a task but a journey of discovery.
-10. 坚定一点，说出口，你比想象中更好。｜Be brave — speak out; you’re better than you think.
+1. Keep learning — progress comes with persistence.（坚持学习，每一天都有进步。）
+2. Every new word brings you closer to the world.（每个新单词都是向世界迈进一步。）
+3. English is the key to a broader stage.（英语是通向更广阔舞台的钥匙。）
+4. Don’t fear mistakes — fear not speaking.（不怕说错，只怕不说。）
+5. The power of language grows through practice.（语言的力量来自不断的练习。）
+6. Let English become your new tool for thinking and expression.（让英语成为你思考与表达的新工具。）
+7. Every time you speak, you build confidence.（每一次开口，都是自信的积累。）
+8. Your effort will make English speak for you.（你的努力，会让英语为你发声。）
+9. Learning English is not a task but a journey of discovery.（学习英语不是任务，而是探索世界的旅程。）
+10. Be brave — speak out; you’re better than you think.（坚定一点，说出口，你比想象中更好。）
