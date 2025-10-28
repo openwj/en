@@ -11,17 +11,19 @@ body {
     display: flex;
     flex-direction: column;
     color: #ffffff;
-    background-color: #222222;
+    background-color: #1D1D1D;
 }
 
 
-hr{
+hr {
     margin: 5px;
+    border: 1px solid #888888; /* 颜色和粗细 */
+    opacity: 0.3;
 }
 
 .header {
     text-align: center;
-    color: white;
+    color: #ffffff;
     padding: 5px;
 }
 
@@ -40,7 +42,6 @@ hr{
 }
 
 .book-container {
-    background-color: #000000;
     flex: 1;
     display: flex;
     flex-direction: column;
@@ -49,25 +50,30 @@ hr{
 }
 
 .book-header {
+    background-color: #232323;
     text-align: center;
-    padding: 10px 5% 5px;
+    padding: 10px;
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 10px;
+    border-radius: 12px;
+    margin-bottom: 10px;
+    min-height: 100px;
+    box-shadow: 0 10px 10px 10px rgb(35, 35, 35);
 }
-.book-header img{
+
+.book-header img {
     max-width: 100px;
     border-radius: 12px;
 }
 
 .book-title {
     color: #ffffff;
-    margin-bottom: 10px;
     font-weight: bold;
 }
 
-.book-title p{
+.book-title p {
     font-size: 8px;
     color: #888888;
     padding-top: 5px;
@@ -125,3 +131,11 @@ footer a {
         font-size: 1.5em;
     }
 }
+
+@media (min-width: 768px) {
+    .book-container {
+        margin: 0 10%;
+    }
+}
+
+

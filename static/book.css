@@ -16,7 +16,7 @@
 .lesson-item {
     display: block;
     padding: 10px;
-    background: #222222;
+    background: #2A2A2A;
     border: none;
     border-radius: 10px;
     text-decoration: none;
@@ -28,7 +28,7 @@
 
 .lesson-item:hover {
     transform: translateX(8px);
-    background: linear-gradient(135deg, #667eea, #764ba2);
+    background: linear-gradient(135deg, #2458CA, #458E37);
     color: white;
     box-shadow: 0 10px 25px rgba(102, 126, 234, 0.3);
 }
@@ -40,7 +40,7 @@
     left: 0;
     width: 4px;
     height: 100%;
-    background: linear-gradient(135deg, #667eea, #764ba2);
+    background: linear-gradient(135deg, #2458CA, #458E37);
     transform: scaleY(0);
     transition: transform 0.3s ease;
 }
