@@ -30,7 +30,6 @@ hr {
 .header h1 {
     font-size: 3em;
     font-weight: 700;
-    margin-bottom: 5px;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
     animation: fadeInDown 1s ease-out;
 }
@@ -38,6 +37,7 @@ hr {
 .header p {
     font-size: 0.8em;
     opacity: 0.9;
+    margin-bottom: 5px;
     animation: fadeInUp 1s ease-out 0.3s both;
 }
 
