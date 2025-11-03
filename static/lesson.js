@@ -116,7 +116,8 @@
                         <div class="end">
                             <p>---谢谢点赞支持---</p>
                             <p>❤️❤️❤️</p>
-                            <a target="_blank" href="https://ichochy.com"><p>By iChochy</p></a>
+                            <a target="_blank" href="voidmain.dev"><p>By Void(m)</p></a>
+                            <p>❤️如有疑问联系微信：tabtab-dev❤️</p>
                         </div>
             `;
             content.innerHTML = sentencesHTML + footerHTML;
